@@ -1,2 +1,2 @@
 # cprstrix
-Tips and tricks for using CPRS as efficiently as possible
+Templates with tips and tricks for using CPRS as efficiently as possible
