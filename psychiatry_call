@@ -13,14 +13,15 @@ Medication History:
 Outpatient treatment:
 
 HOME MEDICATIONS:
-
+|ACTIVE MEDICATIONS| 
 
 MEDICATION RECONCILIATION:
 Med rec was completed with pt/caregiver within my specialty and scope of visit. Written med info was given based on needs of pt/caregiver, who expressed understanding. All discrepancies identified with the patient/caregiver were addressed and recorded within this clinical note.
 
 PAST MEDICAL/SURGICAL HISTORY:
-Diagnosis:
-Allergies:
+|ACTIVE PROBLEM| 
+
+Allergies: |ALLERGIES/ADR|
 
 SUBSTANCE HISTORY:
 Current use and Duration:
@@ -88,9 +89,10 @@ Neuro: Denies headaches, weakness, memory issues
 MSK: Denies myalgias and arthralgias
 Skin: Denies skin rashes
 
-PHYSICAL EXAM
 VITAL SIGNS:
+|VITALS TODAY| 
 
+PHYSICAL EXAM
 GENERAL: NAD
 HEENT: NCAT, OP clear, MMM
 NECK: Supple
@@ -107,7 +109,7 @@ to light touch grossly intact, reflexes 2+ throughout
 LABORATORY VALUES:
 
 UDS:
-ETOH:
+EtOH:
 EKG:
 
 ASSESSMENT:
@@ -123,9 +125,9 @@ PLAN:
 - General precautions
 
 # Psychiatry PRNs
-- haloperidol 5 mg PO/IM Q6H prn for extreme/psychotic agitation
-- lorazepam 2 mg PO/IM Q6H prn for anxiety/agitation
-- benztropine 1 mg IM Q30 min prn for EPS or dystonia (max 8 mg/24 hrs)
+- haloperidol 5 mg PO/IM q6H prn for extreme/psychotic agitation
+- lorazepam 2 mg PO/IM q6H prn for anxiety/agitation
+- benztropine 1 mg IM q30 min prn for EPS or dystonia (max 8mg per 24hrs)
 - hydroxyzine 50mg PO q6hrs for anxiety/agitation
 
 # Alcohol Use Disorder
@@ -137,12 +139,12 @@ PLAN:
 # Opiate Withdrawal
 - discussed with patient that methadone cannot be started tonight and that starting methadone/suboxone is at the discretion of primary team in AM
 - pt agreed with plan for supportive tx at this time
-- clonidine 0.1mg PO Q6H, hold if SBP<90 and/or DBP<60
-- dicyclomine 20mg PO Q6H PRN for abdominal cramps
-- promethazine 25mg PO Q6H PRN for nausea and vomiting (hold if psychotic)
-- ibuprofen 600mg PO Q6H PRN for muscle aches/pain
-- mylanta 30cc Q2H PRN for upset stomach
-- benydryl 50mg PO QHS for insomnia
+- clonidine 0.1mg PO q6H, hold if SBP<90 and/or DBP<60
+- dicyclomine 20mg PO q6H PRN for abdominal cramps
+- promethazine 25mg PO q6H PRN for nausea and vomiting (hold if psychotic)
+- ibuprofen 600mg PO q6H PRN for muscle aches/pain
+- mylanta 30cc q2H PRN for upset stomach
+- benydryl 50mg PO qHS for insomnia
 
 # Routine Care
 - Vitals q shift x72hr, then daily
