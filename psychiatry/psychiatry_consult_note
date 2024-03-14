@@ -7,13 +7,7 @@ CC: ""
 HPI:  
 
 
-On psych review of systems, patient denies a history of mania including but not  
-limited to increased goal directed activities, decreased need for sleep,  
-hypersexuality, expansive mood, or changes in speech.  Patient likewise denies  
-psychotic symptoms including but not limited to voices or visions that other  
-people could not see or hear, ideas of reference, impressions of thought control  
-or thought broadcasting, or paranoid ideation.  No rituals or repetitive  
-behaviors identified.  Patient denies panic attacks.  
+|PSYCHIATRY_ROS|
   
 -------------------------------------------------- 
 
@@ -54,15 +48,7 @@ Current legal problems:
 
 -------------------------------------------------- 
 
-MENTAL HEALTH HISTORY: 
-Past dx: 
-Past meds: 
-Past psych hospitalizations: 
-SI/HI: 
-SA: 
-AVH/IOR: 
-Firearms: 
-SUD: 
+|PSYCHIATRY_HISTORY|
 
 -------------------------------------------------- 
 

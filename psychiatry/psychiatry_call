@@ -6,11 +6,7 @@ CHIEF COMPLAINT:
 HISTORY OF PRESENT ILLNESS:
 
 
-PAST PSYCHIATRIC HISTORY:
-Diagnosis:
-Hospitalizations:
-Medication History:
-Outpatient treatment:
+|PSYCHIATRY_HISTORY|
 
 HOME MEDICATIONS:
 |ACTIVE MEDICATIONS| 
@@ -67,16 +63,7 @@ Are there means available to you? No
 How strong is your intent to do this? No
 What would stop you from doing this? No
 
-REVIEW OF SYSTEMS:
-Const: Denies fevers, chills, or weight changes
-Heent: Denies hearing and vision issues
-Lungs: Denies cough and SOB
-Cardiac: Denies chest pain and heart palpatations
-GI: Denies abdominal pain, nausea, and vomiting
-GU: Denies dysuria, hematuria and urinary frequency
-Neuro: Denies headaches, weakness, memory issues
-MSK: Denies myalgias and arthralgias
-Skin: Denies skin rashes
+|MEDICAL_ROS|
 
 VITAL SIGNS:
 |VITALS TODAY| 
