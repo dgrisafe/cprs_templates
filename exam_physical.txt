@@ -10,4 +10,4 @@ SKIN:	No rashes
 MSK:	Strength 5/5 upper and lower ext
 NEURO:	Awake and alert, EOMI, PERRL, V1-V3 SILT, no facial asymmetry, 
 	uvula midline, shoulder shrugs intact b/l, tongue midline, 
-	SILT grossly intact, reflexes 2+ throughout
+	Ext SILT, reflexes 2+ throughout
