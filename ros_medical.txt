@@ -1,7 +1,7 @@
 REVIEW OF SYSTEMS:
 Constitutional:	(-) fevers, (-) chills, (-) weight changes
 HEENT:		(-) hearing issues, (-) vision issues
-Pulmonary:	(-) cough,(-) shortness of breath
+Pulmonary:	(-) cough, (-) shortness of breath
 Cardiac:	(-) chest pain, (-) heart palpitations
 GI: 		(-) abdominal pain, (-) nausea, (-) vomiting,
 		(-) diarrhea, (-) constipation

@@ -47,4 +47,4 @@ Recommendations:
 
 After hours/weekends, page psychiatry ROD at XXX-XXX-XXXX
 
-Pt seen with the attending, Dr. ____. Assessment and plan of care also discussed with the attending physician, who concurs.
+|SIG_ATTEND_APPROV|

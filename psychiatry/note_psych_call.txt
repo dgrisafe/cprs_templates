@@ -65,4 +65,4 @@ To be staffed in the morning
 
 |DISPO_ER_DISCHARGE|
 
-|ATTENDING_APPROVAL|
+|SIG_ATTEND_APPROV|
