@@ -3,8 +3,9 @@ Constitutional:	(-) fevers, (-) chills, (-) weight changes
 HEENT:		(-) hearing issues, (-) vision issues
 Pulmonary:	(-) cough,(-) shortness of breath
 Cardiac:	(-) chest pain, (-) heart palpitations
-GI: 		(-) abdominal pain, (-) nausea, (-) vomiting
-GU: 		(-) dysuria, (-)hematuria, (-) urinary frequency
+GI: 		(-) abdominal pain, (-) nausea, (-) vomiting,
+		(-) diarrhea, (-) constipation
+GU: 		(-) dysuria, (-) hematuria, (-) urinary frequency
 Neuro: 		(-) headaches, (-) weakness, (-) memory issues
 MSK: 		(-) myalgias, (-) arthralgias
 Skin: 		(-) rashes
