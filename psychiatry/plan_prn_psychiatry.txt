@@ -1,0 +1,5 @@
+# Psychiatry PRNs
+- Haloperidol 5mg PO/IM q6hr PRN for extreme/psychotic agitation
+- Lorazepam 2mg PO/IM q6hr PRN for anxiety/agitation
+- Benztropine 1mg IM q30min PRN for EPS or dystonia (max 8mg per 24hrs)
+- Hydroxyzine 50mg PO q6hr PRN for anxiety/agitation

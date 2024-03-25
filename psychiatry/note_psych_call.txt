@@ -77,7 +77,7 @@ CARDIAC: RRR, no murmurs, rubs, or gallops
 ABDOMEN: Soft, NTND
 EXTREMITIES: No LE edema
 SKIN: No rashes
-MSK: Strength 5/5 thoughout upper and lower ext
+MSK: Strength 5/5 throughout upper and lower ext
 NEURO: Awake and alert, EOMI, PERRL, V1-V3 SILT, no facial asymmetry, uvula midline, shoulder shrugs intact b/l, tongue midline, sensation to light touch grossly intact, reflexes 2+ throughout
 
 LABORATORY VALUES:
@@ -94,40 +94,13 @@ PLAN:
 - Admit to inpatient, formal voluntary
 - Condition: guarded
 
-# Unspecified Depression
-- General precautions
+|PLAN_PRN_PSYCHIATRY|
 
-# Psychiatry PRNs
-- Haloperidol 5mg PO/IM q6hr PRN for extreme/psychotic agitation
-- Lorazepam 2mg PO/IM q6hr PRN for anxiety/agitation
-- Benztropine 1mg IM q30min PRN for EPS or dystonia (max 8mg per 24hrs)
-- Hydroxyzine 50mg PO q6hr PRN for anxiety/agitation
+|PLAN_ALCOHOL_USE_DO|
 
-# Alcohol Use Disorder
-- CIWA protocol
-- Thiamine 100mg IM now, 100mg PO qDay
-- Folate 1mg PO qDay
-- Multivitamin 1 tab qDay
+|PLAN_OPIATE_WITHDRAWAL|
 
-# Opiate Withdrawal
-- Discussed with patient methadone cannot be started tonight and starting methadone/suboxone is at the discretion of primary team in AM
-- Pt agreed with plan for supportive Tx at this time
-- Clonidine 0.1mg PO q6hr, hold if SBP < 90 mmHg or DBP < 60 mmHg
-- Dicyclomine 20mg PO q6hr PRN for abdominal cramps
-- Promethazine 25mg PO q6hr PRN for nausea and vomiting (hold if psychotic)
-- Ibuprofen 600mg PO q6hr PRN for muscle aches/pain
-- Mylanta 30cc q2hr PRN for upset stomach
-- Benydryl 50mg PO qHS for insomnia
-
-# Routine Care
-- Vitals qShift for 72hr, then qDay
-- General diet
-- MVI, folate 1mg, and thiamine 100mg supplements qDay
-- Up ad lib
-- Comfort PRNs:
-  - Mylanta 30 ml PO q8hr PRN for indigestion
-  - Milk of magnesia 30mL PO q12H PRN for constipation
-  - Acetaminophen 650mg PO q6hr PRN for headache/pain
+|PLAN_ROUTINE_CARE|
 
 DISPOSITION:
 Pending psychiatric stabilization
