@@ -1,10 +1,10 @@
 REVIEW OF SYSTEMS:
-Const: Denies fevers, chills, or weight changes
-Heent: Denies hearing and vision issues
-Lungs: Denies cough and SOB
-Cardiac: Denies chest pain and heart palpatations
-GI: Denies abdominal pain, nausea, and vomiting
-GU: Denies dysuria, hematuria and urinary frequency
-Neuro: Denies headaches, weakness, memory issues
-MSK: Denies myalgias and arthralgias
-Skin: Denies skin rashes
+Constitutional:	(-) fevers, (-) chills, (-) weight changes
+HEENT:		(-) hearing issues, (-) vision issues
+Pulmonary:	(-) cough,(-) shortness of breath
+Cardiac:	(-) chest pain, (-) heart palpitations
+GI: 		(-) abdominal pain, (-) nausea, (-) vomiting
+GU: 		(-) dysuria, (-)hematuria, (-) urinary frequency
+Neuro: 		(-) headaches, (-) weakness, (-) memory issues
+MSK: 		(-) myalgias, (-) arthralgias
+Skin: 		(-) rashes

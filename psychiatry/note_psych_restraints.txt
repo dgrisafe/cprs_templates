@@ -7,12 +7,17 @@ OBJECTIVE:
 
 |VITALS TODAY| 
 
-Gen:  Alert and oriented x3; no apparent distress, lying in restraint bed with 4 point restraints in place, sitter at bedside
-Pulm: Breathing comfortably on room air, speaking in full sentences
-Ext: 2 finger widths able to be inserted under each restraint; extremities warm and capillary refill <2 secs; radial and dorsalis pedis pulses appreciated b/l
+Gen:	alert and oriented to self, situation, building, city, state, day, mos, year; 
+	lying in restraint bed with 4 point restraints in place; 
+	no apparent distress; sitter at bedside
+Pulm:	Breathing comfortably on room air, speaking in full sentences
+Ext:	2 finger widths able to be inserted under each restraint; 
+	extremities warm and capillary refill <2 secs; 
+	b/l radial and dorsalis pedis pulses appreciated
 
 ASSESSMENT: 
-Patient continued to escalate and was not redirectable. They refused PRN medications and was therefore placed in 4-point restraints for the safety of theirself and others.
+Patient continued to escalate and was not redirectable. They refused PRN medications.
+Therefore they were placed in 4-point restraints for the safety of themselves and others.
 
 PLAN: 
 - Continue 1:1 observation while in restraints

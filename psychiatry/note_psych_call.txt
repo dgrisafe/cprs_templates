@@ -11,104 +11,58 @@ HISTORY OF PRESENT ILLNESS:
 HOME MEDICATIONS:
 |ACTIVE MEDICATIONS| 
 
-MEDICATION RECONCILIATION:
-Med rec was completed with pt/caregiver within my specialty and scope of visit. Written med info was given based on needs of pt/caregiver, who expressed understanding. All discrepancies identified with the patient/caregiver were addressed and recorded within this clinical note.
+|MED_RECONCILIATION|
 
-PAST MEDICAL/SURGICAL HISTORY:
-|ACTIVE PROBLEM| 
+|HIST_PAST_MED_SURG|
 
 Allergies: |ALLERGIES/ADR|
 
-SUBSTANCE HISTORY:
-Current use and Duration:
-Prior use:
-History of rehabilitation:
+|HIST_SUBSTANCE_USE|
 
-SOCIAL HISTORY:
-Living/Housing:
-Relationship:
-Employment:
-Financial:
-Legal:
+|HIST_SOCIAL|
 
-MILITARY HISTORY:
-Service Branch:
-Service Dates:
-Type of Discharge:
-Role in Military, Military Occupational Specialty (MOS):
+|HIST_MILITARY|
 
 FAMILY HISTORY:
 
 |PSYCHIATRY_MSE|
 
-SUICIDE RISK ASSESSMENT:
-Suicidal ideation, threats, or self harm now or within the past 30 days: None
-Have there been any suicidal/homicidal ideation, suicide attempts, preparatory or non-suicidal self directed violent behaviors in the past six months? No
-Specify: Suicidal ideation, Homicidal ideation, Suicide attempts/Preparatory behaviors
-Non suicidal self directed violence: None
-Total number of past suicide attempts: 0
-Do you have access to a firearm: No
-Do you have a firearm ID card: No
-Risk Factors Identified: None
-Protective Factors Identified: None
-Estimated Risk Level: high/medium/low acute/chronic
-Immediate Safety Actions needed for suicide prevention: none
-Treatment Planning: none
+|RISK_ASSESS_SUICIDE|
 
-VIOLENCE RISK ASSESSMENT:
-Do you have thoughts about hurting anyone else? No
-Is this someone specific? No
-Do you have a plan for how you would do this? No
-Are there means available to you? No
-How strong is your intent to do this? No
-What would stop you from doing this? No
+|RISK_ASSESS_VIOLENCE|
 
 |MEDICAL_ROS|
 
 VITAL SIGNS:
 |VITALS TODAY| 
 
-PHYSICAL EXAM
-GENERAL: NAD
-HEENT: NCAT, OP clear, MMM
-NECK: Supple
-LUNGS: CTAB, no wheezes or rhonchi
-CARDIAC: RRR, no murmurs, rubs, or gallops
-ABDOMEN: Soft, NTND
-EXTREMITIES: No LE edema
-SKIN: No rashes
-MSK: Strength 5/5 throughout upper and lower ext
-NEURO: Awake and alert, EOMI, PERRL, V1-V3 SILT, no facial asymmetry, uvula midline, shoulder shrugs intact b/l, tongue midline, sensation to light touch grossly intact, reflexes 2+ throughout
+|PHYSICAL_EXAM|
 
 LABORATORY VALUES:
 
-UDS:
-EtOH:
-EKG:
+|WORKUP_ER_PSYCHIATRY|
+
+|LABS_GENERAL|
 
 ASSESSMENT:
 DSM-5  WORKING DIAGNOSIS:
-Pt requires immediate inpatient psychiatric hospitalization for stabilization and medication management
+Patient requires immediate inpatient psychiatric hospitalization for stabilization and medication management
 
 PLAN:
-- Admit to inpatient, formal voluntary
+- Admit to inpatient, formal ____voluntary
 - Condition: guarded
 
 |PLAN_PRN_PSYCHIATRY|
-
-|PLAN_ALCOHOL_USE_DO|
-
-|PLAN_OPIATE_WITHDRAWAL|
 
 |PLAN_ROUTINE_CARE|
 
 DISPOSITION:
 Pending psychiatric stabilization
 
-ED discharge:
-PLAN:
-- Pt may be safely discharged from a psychiatric standpoint. Does not pose an imminent threat to self or others. Demonstrates ability to care for self
-- Stated that if he had thoughts of hurting himself or someone else to come back to nearest ED or call 9-1-1
-- Pt to follow up with outpatient Monday through Friday from 0900 to 1600
+To be staffed in the morning
 
-Clinical findings, assessment and plan reviewed with Attending Physician, Dr. _______, who concurs.
+***
+
+|DISPO_ER_DISCHARGE|
+
+|ATTENDING_APPROVAL|

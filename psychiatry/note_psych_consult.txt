@@ -4,87 +4,31 @@ DATE OF EVALUATION: |TODAY'S DATE|
 
 CC: "" 
 
-HPI:  
+HISTORY OF PRESENT ILLNESS: 
 
 
 |PSYCHIATRY_ROS|
-  
--------------------------------------------------- 
 
-PAST MEDICAL HISTORY:  
-|ACTIVE PROBLEM| 
-Surgical Hx: 
-Injuries: 
-Head Traum: 
+|HIST_PAST_MED_SURG|
+
 Allergies: |ALLERGIES/ADR| 
 
--------------------------------------------------- 
-
-FAMILY MEDICAL & PSYCH HISTORY:  
+FAMILY MEDICAL/PSYCHIATRIC HISTORY:  
 
 
--------------------------------------------------- 
+|HIST_SOCIAL|
 
-SOCIAL HISTORY:  
-
-Family of origin: 
-Hx of abuse/neglect/trauma: 
-Education: 
-Mil Hx:  
-Branch: 
-Dates of service: 
-Occupation/MOS: 
-Location: 
-Type of Discharge: 
-Combat hx: 
-Employment status: 
-Last employment: 
-Children: 
-Primary social supports: 
-Current housing: 
-Others in home: 
-Spirituality: 
-Current legal problems:   
-
--------------------------------------------------- 
+|HIST_MILITARY|
 
 |PSYCHIATRY_HISTORY|
-
--------------------------------------------------- 
 
 CURRENT MEDICATIONS:  
 |ACTIVE MEDICATIONS| 
 
--------------------------------------------------- 
-
 VITALS:  
 |VITALS TODAY| 
 
-Labs: 
-HGB: |HGB| 
-HCT: |HCT| 
-WBC: |WBC| 
-PLATELET: |PLATELET| 
-SODIUM: |SODIUM| 
-POTASSIUM: |POTASSIUM| 
-BUN: |BUN| 
-CREATININE: |CREATININE| 
-GLUCOSE: |GLUC| 
-A1C: |A1C| 
-CALCIUM: |CALCIUM| 
-CHLORIDE: |CHLORIDE| 
-CO2: |CO2| 
-MAGNESIUM: |MAGNESIUM| 
-ALBUMIN; |ALBUMIN| 
-MICROALBUMIN: |MICROALBUMIN (URINE -MG/DL)| 
-TSH: |TSH| 
-FREE T4:  |FREE T4| 
-UREA: |UREA| 
-LIPID PROFILE: 
-CHOLESTEROL:|CHOL| 
-TRIGLYCERIDES:|TRIGLYCERIDES| 
-HDL:|HDL| 
-LDL:|LDL CHOLESTEROL| 
+|LABS_GENERAL|
 
 |PSYCHIATRY_MSE|
 

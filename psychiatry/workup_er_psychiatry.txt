@@ -1,0 +1,3 @@
+UDS:	(-) amphetamine, (-) cocaine, (-) opiates, (-) cannabis
+EtOH:	% BAC
+EKG:	Normal sinus rhythm
