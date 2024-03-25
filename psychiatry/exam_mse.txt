@@ -1,15 +1,17 @@
-Mental Status Exam: 
-Gen:   
-Behavior:   
-Motor:  
-Speech:  
-Mood:  
-Affect:  
-TP:  
-TC:  
-Insight:  
-Judgment:  
-Concentration:  
+MENTAL STATUS EXAM: 
+Appearance: appears stated age, wearing hospital gown, fair grooming and hygiene
+Behavior: *** [posture], no PMA or PMR *** [conscious/voluntary movements, tics]
+Cooperation: appropriate eye contact
+Speech: appropriate rate, tone and volume, fluent and articulate, no dysarthria or stuttering
+Mood: “***”
+Affect: euthymic, full-range, congruent with mood, appropriate and reactive
+Thought Process: goal directed and linear
+Thought Content: denies SI/HI,  no psychotic symptoms, no ideas of reference or thought insertion
+Perception: no auditory/visual hallucinations, no illusions
+Insight: full/partial/impaired *** [denial of mental illness, blames others/circumstances for situation]
+Judgement: fair/limited, *** [nonadherent to past medication and safety plans]
 Cognition: 
-Memory: 
-Language: 
+	- Consciousness/Sensorium: alert and oriented to person, place, time, situation
+	- Attention/Concentration: appropriate for interview
+	- Memory: intact
+	- Abstraction: abstract/concrete thinking
