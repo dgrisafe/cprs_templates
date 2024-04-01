@@ -3,7 +3,7 @@ Appearance: appears stated age, wearing hospital gown, fair grooming and hygiene
 Behavior: ___ [posture], no PMA or PMR ___ [conscious/voluntary movements, tics]
 Cooperation: appropriate eye contact
 Speech: appropriate rate, tone and volume, fluent and articulate, no dysarthria or stuttering
-Mood: "___"
+Mood: " ___ "
 Affect: euthymic, full-range, congruent with mood, appropriate and reactive
 Thought Process: goal directed and linear
 Thought Content: denies SI/HI,  no psychotic symptoms, no ideas of reference or thought insertion
