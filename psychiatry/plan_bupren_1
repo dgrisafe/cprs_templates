@@ -1,0 +1,13 @@
+- Follow up COWS score on admission
+-- if >= 12, then start Buprenorphine/Naloxone:
+	Orders -> IP -> Pharmacy (Inpt) ->
+	24 Opioid Withdrawal/Opioid Use Disorder ->
+	Inpatient Order Sets -> Buprenorphine/Naloxone ->
+	3 Not Enrolled in Buprenorphine/Naloxone Treatment Program
+- Suboxone induction Day 1:
+-- If COWS > 12, then give Buprenorphine 4mg/Naloxone 1mg
+-- If COWS > 5 after initial dose, then give Buprenorphine 4mg/Naloxone 1mg
+-- If persistent COWS > 5, then give q6hr Buprenorphine 4mg/Naloxone 1mg
+-- Max Cumulative Daily Dose Buprenorphine 12 mg/Naloxone 3mg
+-- Notify MD if COWS increases after dose, sedation, or respiratory rate < 12
+-- Start Orderset for Day 2 Sunday 10/15 and Day 3 Monday 10/16
