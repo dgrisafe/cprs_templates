@@ -1,0 +1,67 @@
+MEDICINE TEAM _, DAY OF DISCHARGE NOTE
+========================================
+
+DATE OF ADMISSION: |CURRENT ADMISSION|
+DATE OF DISCHARGE:  |TODAY'S DATE|
+
+HPI:
+-----
+
+
+
+HOSPITAL COURSE:
+-----------------
+
+
+
+PAST MEDICAL HX:
+----------------
+
+
+PAST SURGICAL HX:
+------------------
+
+
+
+VITAL SIGNS:
+-------------
+Temperature:|TEMPERATURE|
+Pulse:|PULSE|
+Respiration:|RESPIRATION|
+Blood Pressure:|BLOOD PRESSURE|
+Height:|PATIENT HEIGHT|
+Weight:|PATIENT WEIGHT|
+BMI: |BMI|
+
+
+PHYSICAL EXAM:
+---------------
+
+
+
+MEDS ON ADMISSION:
+------------------
+
+
+
+MEDS ON DISCHARGE:
+------------------
+|ACTIVE OUTPT MEDICATIONS (FOR DISCHARGE INSTRUCTIONS)|
+
+
+FOLLOW-UP APPTS:
+-----------------
+|APPOINTMENTS|
+
+
+FOLLOW-UP TO-DOs:
+------------------
+[ ]
+[ ]
+
+
+Assessment and plan of care discussed with the attending physician,
+Dr. __, who concurs.
+
+-------
+_Signature_
